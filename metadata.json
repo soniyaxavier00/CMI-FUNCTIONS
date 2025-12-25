@@ -1,0 +1,8 @@
+{
+  "name": "CMI HR FUNCTIONS",
+  "description": "A comprehensive HR management suite featuring employee directory, performance tracking, job board management, and a Gemini-powered HR assistant for drafting and insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
